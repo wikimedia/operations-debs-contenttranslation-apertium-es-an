@@ -1,0 +1,12 @@
+apertium-es-an (0.3.0~r60158-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * Significant changes in svn since tarball, so mixing new build scripts with
+    old data files
+
+  [ Kartik Mistry ]
+  * Fixed dependencies.
+  * Rebuilt for Trusty.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 28 Apr 2015 12:29:15 +0530
